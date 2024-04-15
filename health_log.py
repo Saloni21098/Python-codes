@@ -1,7 +1,7 @@
 print(
     """
     +==========================================+
-    | Welcome to Myk Health Management System! |
+    | Welcome to My Health Management System! |
     | This program will create & maintain the  |
     | Diet & Exercise log of different clients |
     +==========================================+
